@@ -3,11 +3,6 @@
 
 Grocer allows you take your shopping list wherever you go
 
-## Authors
-
-- [@Harsh Pareek](https://www.github.com/harshtalks)
-
-
 
 ## Tech Stack
 
