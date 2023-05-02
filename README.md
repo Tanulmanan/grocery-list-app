@@ -8,7 +8,7 @@ Grocer allows you take your shopping list wherever you go
 
 - NextJS
 - Prisma
-- Heroku 
+- Supabase 
 - Vercel 
 - Serverless Functions
 - Rest
